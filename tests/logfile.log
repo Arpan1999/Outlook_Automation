@@ -1,0 +1,254 @@
+2021-10-28 01:23:15,467 :INFO : test_login :start
+2021-10-28 01:24:50,068 :INFO : test_login :start
+2021-10-28 01:25:57,834 :INFO : test_login :start
+2021-10-28 01:36:23,875 :INFO : test_login :start
+2021-10-28 01:37:25,233 :INFO : test_login :start
+2021-10-28 01:38:52,839 :INFO : test_login :start
+2021-10-28 01:40:03,877 :INFO : test_login :start
+2021-10-28 01:40:07,470 :INFO : test_login :
+2021-10-28 02:10:06,897 :INFO : test_login :start
+2021-10-28 02:10:48,023 :INFO : test_login :start
+2021-10-28 02:10:51,292 :INFO : test_login :Couldn't find your Google Account
+2021-10-28 02:17:24,873 :INFO : test_login :start
+2021-10-28 02:17:28,041 :INFO : test_login :Couldn't find your Google Account
+2021-10-28 02:17:42,346 :INFO : test_login :start
+2021-10-28 02:17:45,533 :INFO : test_login :Couldn't find your Google Account
+2021-10-28 02:19:43,039 :INFO : test_login :start
+2021-10-28 02:19:46,197 :INFO : test_login :Couldn't find your Google Account
+2021-10-28 02:25:32,869 :INFO : test_login :start
+2021-10-28 02:25:36,046 :INFO : test_login :Couldn't find your Google Account
+2021-10-28 02:30:46,372 :INFO : test_login :start
+2021-10-28 02:30:49,539 :INFO : test_login :Couldn't find your Google Account
+2021-10-28 02:31:48,486 :INFO : test_login :start
+2021-10-28 02:31:51,671 :INFO : test_login :Couldn't find your Google Account
+2021-10-28 02:32:25,850 :INFO : test_login :start
+2021-10-28 02:32:29,081 :INFO : test_login :Couldn't find your Google Account
+2021-10-28 02:33:23,521 :INFO : test_login :start
+2021-10-28 02:33:26,743 :INFO : test_login :Couldn't find your Google Account
+2021-10-28 02:33:54,852 :INFO : test_login :start
+2021-10-28 02:34:10,766 :INFO : test_login :start
+2021-10-28 02:34:13,981 :INFO : test_login :Couldn't find your Google Account
+2021-10-28 02:35:10,187 :INFO : test_login :start
+2021-10-28 02:59:20,277 :INFO : test_login :start
+2021-10-28 02:59:23,885 :INFO : test_login :Couldn't find your Google Account
+2021-10-28 03:14:38,960 :INFO : test_login :start
+2021-10-28 03:14:42,284 :INFO : test_login :Couldn't find your Google Account
+2021-10-28 03:15:28,285 :INFO : test_login :start
+2021-10-28 03:15:31,447 :INFO : test_login :Couldn't find your Google Account
+2021-10-28 03:31:00,317 :INFO : test_login :start
+2021-10-28 03:31:03,474 :INFO : test_login :Couldn't find your Google Account
+2021-10-28 03:34:52,372 :INFO : test_login :start
+2021-10-28 03:34:55,540 :INFO : test_login :Couldn't find your Google Account
+2021-10-28 03:35:33,683 :INFO : test_login :start
+2021-10-28 03:35:36,858 :INFO : test_login :Couldn't find your Google Account
+2021-10-28 03:48:42,543 :INFO : test_login :start
+2021-10-28 03:49:05,241 :INFO : test_login :start
+2021-10-28 03:49:13,400 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-28 13:47:04,926 :INFO : test_login :start
+2021-10-28 13:47:13,185 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-28 13:48:48,328 :INFO : test_login :start
+2021-10-28 13:48:56,562 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-28 13:49:10,005 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-28 13:55:30,567 :INFO : test_login :start
+2021-10-28 13:55:38,808 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-28 13:55:52,152 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-28 22:25:17,325 :INFO : test_login :start
+2021-10-28 22:25:25,647 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-28 22:28:47,365 :INFO : test_login :start
+2021-10-28 22:28:55,611 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-28 22:29:09,854 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-28 22:42:28,317 :INFO : test_login :start
+2021-10-28 22:42:36,790 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-28 22:42:51,288 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-29 00:45:39,748 :INFO : test_login :start
+2021-10-29 00:45:48,293 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-29 00:46:23,013 :INFO : test_login :start
+2021-10-29 00:47:20,997 :INFO : test_login :start
+2021-10-29 00:48:59,824 :INFO : test_login :start
+2021-10-29 00:55:56,022 :INFO : test_login :start
+2021-10-29 00:56:43,002 :INFO : test_login :start
+2021-10-29 01:01:29,528 :INFO : test_login :start
+2021-10-29 01:04:03,536 :INFO : test_login :start
+2021-10-29 01:04:48,516 :INFO : test_login :start
+2021-10-29 01:04:48,516 :INFO : test_login :start
+2021-10-29 01:04:56,939 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-29 01:04:56,939 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-29 01:05:10,942 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-29 01:05:10,942 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-29 01:34:08,186 :INFO : test_login :start
+2021-10-29 01:39:28,822 :INFO : test_login :start
+2021-10-29 01:39:28,822 :INFO : test_login :start
+2021-10-29 01:39:37,455 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-29 01:39:37,455 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-29 01:39:51,986 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-29 01:39:51,986 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-29 02:04:23,741 :INFO : test_login :start
+2021-10-29 02:04:50,032 :INFO : test_login :start
+2021-10-29 02:04:50,032 :INFO : test_login :start
+2021-10-29 02:04:58,404 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-29 02:04:58,404 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-29 02:05:11,873 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-29 02:05:11,873 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-29 02:05:50,980 :INFO : test_login :start
+2021-10-29 02:06:31,641 :INFO : test_login :start
+2021-10-29 02:06:31,641 :INFO : test_login :start
+2021-10-29 02:07:05,930 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-29 02:07:05,930 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-29 02:07:19,577 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-29 02:07:19,577 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-29 18:37:28,069 :INFO : test_login :start
+2021-10-29 18:37:33,071 :INFO : test_login :Entering email
+2021-10-29 18:37:36,503 :INFO : test_login :Entering password
+2021-10-29 18:38:36,182 :INFO : test_login :Successfull login
+2021-10-29 18:38:39,612 :INFO : test_login :Entering Sender Email
+2021-10-29 18:38:39,811 :INFO : test_login :Entering Subject
+2021-10-29 18:38:40,066 :INFO : test_login :Entering message body
+2021-10-29 18:38:46,299 :INFO : test_login :Message successfully send
+2021-10-29 18:38:52,195 :INFO : test_login :start
+2021-10-29 18:38:52,195 :INFO : test_login :start
+2021-10-29 18:38:57,204 :INFO : test_login :Entering wrong email
+2021-10-29 18:38:57,204 :INFO : test_login :Entering wrong email
+2021-10-29 18:39:00,690 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-29 18:39:00,690 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-29 18:41:05,297 :INFO : test_login :start
+2021-10-29 18:41:10,317 :INFO : test_login :Entering email
+2021-10-29 18:41:13,722 :INFO : test_login :Entering password
+2021-10-29 18:41:34,254 :INFO : test_login :Successfull login
+2021-10-29 18:41:37,675 :INFO : test_login :Entering Sender Email
+2021-10-29 18:41:37,865 :INFO : test_login :Entering Subject
+2021-10-29 18:41:38,102 :INFO : test_login :Entering message body
+2021-10-29 18:41:44,529 :INFO : test_login :Message successfully send
+2021-10-29 18:41:50,606 :INFO : test_login :start
+2021-10-29 18:41:50,606 :INFO : test_login :start
+2021-10-29 18:41:55,616 :INFO : test_login :Entering wrong email
+2021-10-29 18:41:55,616 :INFO : test_login :Entering wrong email
+2021-10-29 18:42:00,252 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-29 18:42:00,252 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-29 18:42:03,506 :INFO : test_login :Entering correct email
+2021-10-29 18:42:03,506 :INFO : test_login :Entering correct email
+2021-10-29 18:42:06,925 :INFO : test_login :Entering wrong password
+2021-10-29 18:42:06,925 :INFO : test_login :Entering wrong password
+2021-10-29 18:42:14,818 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-29 18:42:14,818 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-29 18:42:18,363 :INFO : test_login :Entering correct password
+2021-10-29 18:42:18,363 :INFO : test_login :Entering correct password
+2021-10-29 18:44:26,835 :INFO : test_login :start
+2021-10-29 18:44:31,846 :INFO : test_login :Entering email
+2021-10-29 18:44:35,274 :INFO : test_login :Entering password
+2021-10-29 18:45:02,209 :INFO : test_login :Successfull login
+2021-10-29 18:45:06,603 :INFO : test_login :Entering Sender Email
+2021-10-29 18:45:07,114 :INFO : test_login :Entering Subject
+2021-10-29 18:45:07,454 :INFO : test_login :Entering message body
+2021-10-29 18:45:14,262 :INFO : test_login :Message successfully send
+2021-10-29 18:45:20,047 :INFO : test_login :start
+2021-10-29 18:45:20,047 :INFO : test_login :start
+2021-10-29 18:45:25,052 :INFO : test_login :Entering wrong email
+2021-10-29 18:45:25,052 :INFO : test_login :Entering wrong email
+2021-10-29 18:45:28,505 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-29 18:45:28,505 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-29 18:45:31,754 :INFO : test_login :Entering correct email
+2021-10-29 18:45:31,754 :INFO : test_login :Entering correct email
+2021-10-29 18:45:35,253 :INFO : test_login :Entering wrong password
+2021-10-29 18:45:35,253 :INFO : test_login :Entering wrong password
+2021-10-29 18:45:42,610 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-29 18:45:42,610 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-29 18:45:46,372 :INFO : test_login :Entering correct password
+2021-10-29 18:45:46,372 :INFO : test_login :Entering correct password
+2021-10-29 18:46:21,887 :INFO : test_login :Successful login
+2021-10-29 18:46:21,887 :INFO : test_login :Successful login
+2021-10-30 11:15:14,121 :INFO : test_login :start
+2021-10-30 11:15:19,125 :INFO : test_login :Entering email
+2021-10-30 11:15:22,424 :INFO : test_login :Entering password
+2021-10-30 11:15:34,556 :INFO : test_login :Successfull login
+2021-10-30 11:15:37,887 :INFO : test_login :Entering Sender Email
+2021-10-30 11:15:38,002 :INFO : test_login :Entering Subject
+2021-10-30 11:15:38,126 :INFO : test_login :Entering message body
+2021-10-30 11:15:44,020 :INFO : test_login :Message successfully send
+2021-10-30 11:15:49,211 :INFO : test_login :start
+2021-10-30 11:15:49,211 :INFO : test_login :start
+2021-10-30 11:15:54,225 :INFO : test_login :Entering wrong email
+2021-10-30 11:15:54,225 :INFO : test_login :Entering wrong email
+2021-10-30 11:15:57,526 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-30 11:15:57,526 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-30 11:16:00,722 :INFO : test_login :Entering correct email
+2021-10-30 11:16:00,722 :INFO : test_login :Entering correct email
+2021-10-30 11:16:03,989 :INFO : test_login :Entering wrong password
+2021-10-30 11:16:03,989 :INFO : test_login :Entering wrong password
+2021-10-30 11:16:11,117 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-30 11:16:11,117 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-30 11:16:14,466 :INFO : test_login :Entering correct password
+2021-10-30 11:16:14,466 :INFO : test_login :Entering correct password
+2021-10-30 11:16:42,941 :INFO : test_login :Successful login
+2021-10-30 11:16:42,941 :INFO : test_login :Successful login
+2021-10-30 11:28:11,391 :INFO : test_login :start
+2021-10-30 11:28:16,394 :INFO : test_login :Entering email
+2021-10-30 11:28:20,087 :INFO : test_login :Entering password
+2021-10-30 11:28:48,227 :INFO : test_login :Successfull login
+2021-10-30 11:28:51,582 :INFO : test_login :Entering Sender Email
+2021-10-30 11:28:51,689 :INFO : test_login :Entering Subject
+2021-10-30 11:28:51,810 :INFO : test_login :Entering message body
+2021-10-30 11:28:57,619 :INFO : test_login :Message successfully send
+2021-10-30 11:29:03,174 :INFO : test_login :start
+2021-10-30 11:29:03,174 :INFO : test_login :start
+2021-10-30 11:29:08,189 :INFO : test_login :Entering wrong email
+2021-10-30 11:29:08,189 :INFO : test_login :Entering wrong email
+2021-10-30 11:29:11,495 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-30 11:29:11,495 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-10-30 11:29:14,675 :INFO : test_login :Entering correct email
+2021-10-30 11:29:14,675 :INFO : test_login :Entering correct email
+2021-10-30 11:29:17,954 :INFO : test_login :Entering wrong password
+2021-10-30 11:29:17,954 :INFO : test_login :Entering wrong password
+2021-10-30 11:29:25,119 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-30 11:29:25,119 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-10-30 11:29:28,466 :INFO : test_login :Entering correct password
+2021-10-30 11:29:28,466 :INFO : test_login :Entering correct password
+2021-11-08 00:21:19,834 :INFO : test_newMessage :start
+2021-11-08 00:21:24,849 :INFO : test_newMessage :Entering email
+2021-11-08 00:21:28,156 :INFO : test_newMessage :Entering password
+2021-11-08 00:21:45,448 :INFO : test_newMessage :Successfull login
+2021-11-08 00:21:48,771 :INFO : test_newMessage :Entering Sender Email
+2021-11-08 00:21:48,925 :INFO : test_newMessage :Entering Subject
+2021-11-08 00:21:49,046 :INFO : test_newMessage :Entering message body
+2021-11-08 00:21:54,782 :INFO : test_newMessage :Message successfully send
+2021-11-08 00:21:57,983 :INFO : test_newMessage :Entering Sender Email
+2021-11-08 00:21:58,136 :INFO : test_newMessage :Entering Subject
+2021-11-08 00:21:58,247 :INFO : test_newMessage :Bold enabled
+2021-11-08 00:21:58,337 :INFO : test_newMessage :Italic enabled
+2021-11-08 00:21:58,406 :INFO : test_newMessage :Entering message body
+2021-11-08 00:22:04,014 :INFO : test_newMessage :Message successfully send
+2021-11-08 00:22:07,213 :INFO : test_newMessage :Entering Sender Email
+2021-11-08 00:22:07,373 :INFO : test_newMessage :Entering message body
+2021-11-08 00:22:11,103 :INFO : test_newMessage :Message send without subject
+2021-11-08 00:22:16,413 :INFO : test_newMessage :Entering Subject
+2021-11-08 00:22:16,664 :INFO : test_newMessage :Entering message body
+2021-11-08 00:22:20,188 :INFO : test_newMessage :Message not sent
+2021-11-08 00:22:20,253 :INFO : test_newMessage :This message must have at least one recipient.
+2021-11-08 00:42:27,760 :INFO : test_newMessage :start
+2021-11-08 00:42:32,762 :INFO : test_newMessage :Entering email
+2021-11-08 00:42:36,077 :INFO : test_newMessage :Entering password
+2021-11-08 00:42:53,830 :INFO : test_newMessage :Successfull login
+2021-11-08 00:42:57,085 :INFO : test_newMessage :Entering Sender Email
+2021-11-08 00:42:57,248 :INFO : test_newMessage :Entering Subject
+2021-11-08 00:42:57,382 :INFO : test_newMessage :Entering message body
+2021-11-08 00:43:03,175 :INFO : test_newMessage :Message successfully send
+2021-11-08 00:43:06,426 :INFO : test_newMessage :Entering Sender Email
+2021-11-08 00:43:06,565 :INFO : test_newMessage :Entering Subject
+2021-11-08 00:43:06,680 :INFO : test_newMessage :Bold enabled
+2021-11-08 00:43:06,777 :INFO : test_newMessage :Italic enabled
+2021-11-08 00:43:06,853 :INFO : test_newMessage :Entering message body
+2021-11-08 00:43:12,378 :INFO : test_newMessage :Message successfully send
+2021-11-08 00:43:15,548 :INFO : test_newMessage :Entering Sender Email
+2021-11-08 00:43:15,636 :INFO : test_newMessage :Entering message body
+2021-11-08 00:43:19,370 :INFO : test_newMessage :Message send without subject
+2021-11-08 00:43:24,592 :INFO : test_newMessage :Entering Subject
+2021-11-08 00:43:24,785 :INFO : test_newMessage :Entering message body
+2021-11-08 00:43:28,368 :INFO : test_newMessage :Message not sent
+2021-11-08 00:43:28,604 :INFO : test_newMessage :This message must have at least one recipient.
+2021-11-08 00:43:36,016 :INFO : test_login :start
+2021-11-08 00:43:41,017 :INFO : test_login :Entering wrong email
+2021-11-08 00:43:44,331 :INFO : test_login :We couldn't find an account with that username. Try another, or get a new Microsoft account.
+2021-11-08 00:43:47,530 :INFO : test_login :Entering correct email
+2021-11-08 00:43:50,828 :INFO : test_login :Entering wrong password
+2021-11-08 00:43:58,522 :INFO : test_login :Your account or password is incorrect. If you don't remember your password, reset it now.
+2021-11-08 00:44:01,873 :INFO : test_login :Entering correct password
+2021-11-08 00:44:20,889 :INFO : test_login :Successful login
